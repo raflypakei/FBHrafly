@@ -331,10 +331,10 @@ def lanjutG():
 def menu():
 	tampil('''\rh
           ___   ___   _  _   
-         | __| | _ ) | || |  \rk*\rcAsecC|~|eror404
+         | __| | _ ) | || |  \rk*\rcRafly|~|Pakei
          | _|  | _ \ | __ |  
         _|_|_  |___/ |_||_|  
- \rp |"""""|| """ |\rmHaxID\rp|"""""||"""""| 
+ \rp |"""""|| """ |\rmRafly\rp|"""""||"""""| 
       "`-0-0-'"`-0-0-'"`-0-0-'   
       
 \rmKita semua bangkit dan berdiri untuk suatu perubahan
@@ -343,9 +343,9 @@ def menu():
              	\rp*\rkRombongan\rp*
              
  \rhAuthor :\rp Rafly\pakei
- \rhMod    :\rp AsecC\rm|~|\rkeror404
- \rhTeam   :\rp Hax\rkID
- \rhContact:\rp sempakbasah\rk044@gmail.com
+ \rhMod    :\rp Rafly\rm|~|\rkLakaja
+ \rhyoutube   :\rp Rafly\rkPakei
+ \rhContact:\rp akunpertama\rk18032002@gmail.com
  
 \rk####################################################
 \rmNOTE:Sekali anda memahami, seribu kali anda mengerti''')
